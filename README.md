@@ -15,5 +15,5 @@ Table of Contents
 
 
 # NLP
-1. Understanding Mention Detector-Linker Interaction in Neural Coreference Resolution, Wu and Gardner, 2021 [Paper](https://aclanthology.org/2021.crac-1.16/) [Notes](https://github.com/weezymatt/papers/blob/main/2023/2021.crac-1.16.md)
+1. Understanding Mention Detector-Linker Interaction in Neural Coreference Resolution, Wu and Gardner, 2021 [[Paper](https://aclanthology.org/2021.crac-1.16/)] [Notes](https://github.com/weezymatt/papers/blob/main/2023/2021.crac-1.16.md)
 2. 
