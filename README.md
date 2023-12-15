@@ -22,4 +22,4 @@ Table of Contents
 2. 
 
 ###  Architectures 
-1. Attention is all you need Vaswani et al., 2023 [[Paper](https://arxiv.org/abs/1706.03762) [Notes](https://github.com/weezymatt/papers/blob/main/2023/1706.03762.md)]
+1. Attention is all you need Vaswani et al., 2023 [[Paper](https://arxiv.org/abs/1706.03762) [Notes](https://github.com/weezymatt/papers/blob/main/2023/1706.03762.md)]] 
