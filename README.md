@@ -6,14 +6,13 @@ Table of Contents
 -----------------
 
 * [Reading Notes](#reading-notes)
-* [Natural Language Processing](#nlp)
-  * [Coreference Resolution](#coreference-resolution)
-  * [Architectures](#architectures)
-* [Linguistics](#linguistics)
-* Algorithms
-* Machine Learnings
-* Artificial Intelligence
-* 
+  * [Natural Language Processing](#nlp)
+    * [Coreference Resolution](#coreference-resolution)
+    * [Architectures](#architectures)
+    * [Embeddings](#embeddings)
+  * [Linguistics](#linguistics)
+  * [Machine Learning](#machine-learning)
+  * [Algorithms](#algorithms)
 
 
 ## NLP
@@ -26,3 +25,7 @@ Table of Contents
 1. Attention is all you need Vaswani et al., 2023 [[Paper](https://arxiv.org/abs/1706.03762)] [[Notes](https://github.com/weezymatt/papers/blob/main/2023/1706.03762.md)]
 
 ## Linguistics
+
+## Machine Learning
+
+## Algorithms
