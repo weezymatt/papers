@@ -1,12 +1,11 @@
 # Reading Notes
 
-This repository contains notes of papers I'm reading. 
-
+This repository contains notes of papers I'm reading. (add slightly more)
 
 Table of Contents
 =================
 
-  * [Dockerfile.vim](#dockerfilevim)
+  * [Reading Notes](#reading notes)
   * [Screenshot](#screenshot)
   * [Installation](#installation)
         * [OR using Pathogen:](#or-using-pathogen)
