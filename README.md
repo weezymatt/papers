@@ -10,7 +10,7 @@ Table of Contents
     * [Coreference Resolution](#coreference-resolution)
     * [Architectures](#architectures)
     * [Embeddings](#embeddings)
-    * [N-Grams](#ngrams)
+    * [N-Grams](#n-grams)
   * [Linguistics](#linguistics)
   * [Machine Learning](#machine-learning)
   * [Algorithms](#algorithms)
