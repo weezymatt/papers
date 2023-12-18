@@ -10,6 +10,7 @@ Table of Contents
     * [Coreference Resolution](#coreference-resolution)
     * [Architectures](#architectures)
     * [Embeddings](#embeddings)
+    * [N-Grams(#ngrams)
   * [Linguistics](#linguistics)
   * [Machine Learning](#machine-learning)
   * [Algorithms](#algorithms)
@@ -22,7 +23,10 @@ Table of Contents
 2. PreCo: A Large-scale Dataset in Preschool Vocabulary for Coreference Resolution; Chen et al, 2018 [[Paper](https://aclanthology.org/D18-1016/)] [[Notes](https://github.com/weezymatt/papers/blob/main/2023/D18-1016.md)]
 
 ###  Architectures 
-1. Attention is all you need Vaswani et al., 2023 [[Paper](https://arxiv.org/abs/1706.03762)] [[Notes](https://github.com/weezymatt/papers/blob/main/2023/1706.03762.md)]
+1. Attention is all you need; Vaswani et al., 2023 [[Paper](https://arxiv.org/abs/1706.03762)] [[Notes](https://github.com/weezymatt/papers/blob/main/2023/1706.03762.md)]
+
+### N-Grams
+1. Show Some Love to Your *n*-grams: A Bit of Progress and Stronger *n*-gram Language Modeling Baselines; Shareghi et al., 2019 [[Paper](https://aclanthology.org/N19-1417/)] [Notes](fillinlater) 
 
 ## Linguistics
 
