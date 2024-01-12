@@ -30,6 +30,9 @@ Table of Contents
 
 ## Linguistics
 
+## Software Engineering
+1. Constructing a Knowledge Graph from Textual Descriptions of Software Vulnerabilities in the National Vulnerability Database, 2023 [[Paper](https://arxiv.org/abs/2305.00382) [[Notes](https://example.com)]
+2. 
 ## Machine Learning
 
 ## Algorithms
