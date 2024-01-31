@@ -29,7 +29,7 @@ Table of Contents
 1. Show Some Love to Your *n*-grams: A Bit of Progress and Stronger *n*-gram Language Modeling Baselines; Shareghi et al., 2019 [[Paper](https://aclanthology.org/N19-1417/)] [[Notes](fillinlater)]
 
 ### Symbolic Knowledge
-1. Symbolic Knowledge Distillation: from General Language Models to Commonsense Models; West et al., 2023 [[Paper](https://aclanthology.org/2022.naacl-main.341/)] [[Notes](pending)]
+1. Symbolic Knowledge Distillation: from General Language Models to Commonsense Models; West et al., 2023 [[Paper](https://aclanthology.org/2022.naacl-main.341/)] [[Notes](https://github.com/weezymatt/papers/blob/main/2024/2022.naacl-main.341.md)]
 
 ### Formal Language Theory
 1. Neural Networks and the Chomsky Hierarchy; Delétang et al., 2023  [[Paper](https://arxiv.org/abs/2207.02098)] [[Notes](pending)]
