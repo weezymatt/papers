@@ -1,6 +1,6 @@
 # Reading Notes
 
-This repository contains notes of papers I'm reading. (add slightly more detail)
+This repository serves the purpose of keeping to date with state-of-the-art in computational linguistics/natural language processing. It contains notes of papers that I've read either by myself or for the local [NLP reading group](https://github.com/clulab/nlp-reading-group) in Tucson, Arizona.
 
 Table of Contents
 -----------------
