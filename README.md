@@ -11,6 +11,9 @@ Table of Contents
     * [Architectures](#architectures)
     * [Embeddings](#embeddings)
     * [N-Grams](#n-grams)
+    * [Symbolic Knowledge](#symbolic-knowledge)
+    * [Formal Language Theory](#formal-language-theory)
+    * [Parsing and Part-of-Speech Tagging](#parsing)
   * [Linguistics](#linguistics)
   * [Machine Learning](#machine-learning)
   * [Algorithms](#algorithms)
@@ -35,6 +38,9 @@ Table of Contents
 ### Formal Language Theory
 1. Neural Networks and the Chomsky Hierarchy; Delétang et al., 2023  [[Paper](https://arxiv.org/abs/2207.02098)] [[Notes](pending)]
 
+### Parsing and Part-of-Speech Tagging
+1. Universal Stanford Dependencies: A cross-linguistic typology; de Marneffe et al., 2014 [[Paper](https://aclanthology.org/L14-1045/)] [[Notes](pending)]
+   
 ## Linguistics
 
 ## Software Engineering
