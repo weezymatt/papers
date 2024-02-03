@@ -33,8 +33,8 @@ Table of Contents
 
 ### Symbolic Knowledge
 1. Symbolic Knowledge Distillation: from General Language Models to Commonsense Models; West et al., 2023 [[Paper](https://aclanthology.org/2022.naacl-main.341/)] [[Notes](https://github.com/weezymatt/papers/blob/main/2024/2022.naacl-main.341.md)]
-2. Language Models can be Logical Solvers; Feng et al., 2023 [[Paper](https://arxiv.org/abs/2311.06158)] [[Notes](https://github.com/weezymatt/papers/blob/weezymatt-patch-1/2024/2311.06158.md)]
-
+2. Language Models can be Logical Solvers; Feng et al., 2023 [[Paper](https://arxiv.org/abs/2311.06158)]
+   
 ### Formal Language Theory
 1. Neural Networks and the Chomsky Hierarchy; Delétang et al., 2023  [[Paper](https://arxiv.org/abs/2207.02098)] [[Notes](pending)]
 
