@@ -6,7 +6,7 @@ Table of Contents
 -----------------
 
 * [Reading Notes](#reading-notes)
-  * [Natural Language Processing](#nlp)
+  * [Natural Language Processing](#natural-language-processing-;-computational-linguistics)
     * [Coreference Resolution](#coreference-resolution)
     * [Architectures](#architectures)
     * [Embeddings](#embeddings)
