@@ -1,22 +1,25 @@
 # Reading Notes
 
-This repository contains notes of papers I'm reading. (add slightly more detail)
+This repository serves the purpose of keeping up to date with state-of-the-art in computational linguistics/natural language processing and simply finding cool stuff. It contains notes of papers that I've read either by myself or for the local [NLP reading group](https://github.com/clulab/nlp-reading-group) in Tucson, Arizona.
 
 Table of Contents
 -----------------
 
 * [Reading Notes](#reading-notes)
-  * [Natural Language Processing](#nlp)
+  * [Natural Language Processing](#natural-language-processing-computational-linguistics)
     * [Coreference Resolution](#coreference-resolution)
     * [Architectures](#architectures)
     * [Embeddings](#embeddings)
     * [N-Grams](#n-grams)
+    * [Symbolic Knowledge](#symbolic-knowledge)
+    * [Formal Language Theory](#formal-language-theory)
+    * [Parsing and Part-of-Speech Tagging](#parsing)
   * [Linguistics](#linguistics)
   * [Machine Learning](#machine-learning)
   * [Algorithms](#algorithms)
 
 
-## NLP
+## Natural Language Processing; Computational Linguistics
 
 ### Coreference Resolution
 1. Understanding Mention Detector-Linker Interaction in Neural Coreference Resolution; Wu and Gardner, 2021 [[Paper](https://aclanthology.org/2021.crac-1.16/)] [[Notes](https://github.com/weezymatt/papers/blob/main/2023/2021.crac-1.16.md)]
@@ -30,10 +33,15 @@ Table of Contents
 
 ### Symbolic Knowledge
 1. Symbolic Knowledge Distillation: from General Language Models to Commonsense Models; West et al., 2023 [[Paper](https://aclanthology.org/2022.naacl-main.341/)] [[Notes](https://github.com/weezymatt/papers/blob/main/2024/2022.naacl-main.341.md)]
-
+2. Language Models can be Logical Solvers; Feng et al., 2023 [[Paper](https://arxiv.org/abs/2311.06158)]
+   
 ### Formal Language Theory
 1. Neural Networks and the Chomsky Hierarchy; Delétang et al., 2023  [[Paper](https://arxiv.org/abs/2207.02098)] [[Notes](pending)]
 
+### Parsing and Part-of-Speech Tagging
+1. Universal Stanford Dependencies: A cross-linguistic typology; de Marneffe et al., 2014 [[Paper](https://aclanthology.org/L14-1045/)] [[Notes](pending)]
+2. Gemini: A Natural Language System for Spoken-Language Understanding*; Dowding et al., 1993 [[Paper](https://aclanthology.org/P93-1008/)] [[Notes](pending)]
+   
 ## Linguistics
 
 ## Software Engineering
