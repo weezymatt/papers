@@ -43,6 +43,7 @@ Table of Contents
 2. Gemini: A Natural Language System for Spoken-Language Understanding*; Dowding et al., 1993 [[Paper](https://aclanthology.org/P93-1008/)] [[Notes](pending)]
    
 ## Linguistics
+1. Studies in Linguistic Analysis: A synopsis of linguistic theory 1930-1955; Firth, J. R., 1962 [[Paper](https://cs.brown.edu/courses/csci2952d/readings/lecture1-firth.pdf)] #word-embeddings
 
 ## Software Engineering
 1. Constructing a Knowledge Graph from Textual Descriptions of Software Vulnerabilities in the National Vulnerability Database, 2023 [[Paper](https://arxiv.org/abs/2305.00382) [[Notes](https://example.com)]
