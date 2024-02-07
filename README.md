@@ -40,7 +40,7 @@ Table of Contents
 
 ### Parsing and Part-of-Speech Tagging
 1. Universal Stanford Dependencies: A cross-linguistic typology; de Marneffe et al., 2014 [[Paper](https://aclanthology.org/L14-1045/)] [[Notes](pending)]
-2. Gemini: A Natural Language System for Spoken-Language Understanding*; Dowding et al., 1993 [[Paper](https://aclanthology.org/P93-1008/)] [[Notes](https://github.com/weezymatt/papers/2024/H93-1008.md)]
+2. Gemini: A Natural Language System for Spoken-Language Understanding*; Dowding et al., 1993 [[Paper](https://aclanthology.org/P93-1008/)] [[Notes](https://github.com/weezymatt/papers/blob/main/2024/H93-1008.md)]
    
 ## Linguistics
 1. Studies in Linguistic Analysis: A synopsis of linguistic theory 1930-1955; Firth, J. R., 1962 [[Paper](https://cs.brown.edu/courses/csci2952d/readings/lecture1-firth.pdf)] #word-embeddings
