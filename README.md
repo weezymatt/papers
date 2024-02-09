@@ -23,6 +23,7 @@ Table of Contents
 
 ### Statistical NLP
 1. How the Statistical Revolution Changes (Computational) Linguistics; Johnson, M., 2000 [[Paper](https://aclanthology.org/W09-0103/)]
+2. Inference in an Authorship Problem; Mosteller, W., Wallace, D.; 1963 [[Paper](https://www.jstor.org/stable/2283270)]
    
 ### Coreference Resolution
 1. Understanding Mention Detector-Linker Interaction in Neural Coreference Resolution; Wu and Gardner, 2021 [[Paper](https://aclanthology.org/2021.crac-1.16/)] [[Notes](https://github.com/weezymatt/papers/blob/main/2023/2021.crac-1.16.md)]
