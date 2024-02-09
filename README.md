@@ -21,6 +21,9 @@ Table of Contents
 
 ## Natural Language Processing; Computational Linguistics
 
+### Statistical NLP
+1. How the Statistical Revolution Changes (Computational) Linguistics; Johnson, M., 2000 [[Paper](https://aclanthology.org/W09-0103/)]
+   
 ### Coreference Resolution
 1. Understanding Mention Detector-Linker Interaction in Neural Coreference Resolution; Wu and Gardner, 2021 [[Paper](https://aclanthology.org/2021.crac-1.16/)] [[Notes](https://github.com/weezymatt/papers/blob/main/2023/2021.crac-1.16.md)]
 2. PreCo: A Large-scale Dataset in Preschool Vocabulary for Coreference Resolution; Chen et al, 2018 [[Paper](https://aclanthology.org/D18-1016/)] [[Notes](https://github.com/weezymatt/papers/blob/main/2023/D18-1016.md)]
