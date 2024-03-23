@@ -32,6 +32,8 @@ Table of Contents
 ###  Architectures 
 1. Attention is all you need; Vaswani et al., 2023 [[Paper](https://arxiv.org/abs/1706.03762)] [[Notes](https://github.com/weezymatt/papers/blob/main/2023/1706.03762.md)]
 
+### Embeddings
+1. Efficient Estimation of Word Representations in Vector Space; Mikolov et al., 2013 [[Paper](https://arxiv.org/abs/1301.3781)]
 ### N-Grams
 1. Show Some Love to Your *n*-grams: A Bit of Progress and Stronger *n*-gram Language Modeling Baselines; Shareghi et al., 2019 [[Paper](https://aclanthology.org/N19-1417/)] [[Notes](fillinlater)]
 
