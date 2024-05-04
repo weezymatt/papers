@@ -1,6 +1,6 @@
 # Reading Notes
 
-This repository serves the purpose of keeping up to date with state-of-the-art in computational linguistics/natural language processing and simply finding cool stuff. It contains notes of papers that I've read either by myself or for the local [NLP reading group](https://github.com/clulab/nlp-reading-group) in Tucson, Arizona.
+Welcome! This repository is a collection of interesting or useful papers in computational linguistics/natural language processing, and other adjacent fields. It occasionally contains my notes too.
 
 Table of Contents
 -----------------
@@ -61,5 +61,6 @@ Table of Contents
 
 ## Machine Learning
 1. Induction of Decision Trees; Quinlan, J. R., 1986 [[Paper](https://link.springer.com/article/10.1007/BF00116251)]
+2. A Few Useful Things to Know about Machine Learning; Domingos, Pedro, 2012 [Paper](https://sites.astro.caltech.edu/~george/ay122/cacm12.pdf)
 
 ## Algorithms
