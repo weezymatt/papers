@@ -47,6 +47,7 @@ Table of Contents
    
 ### Formal Language Theory
 1. Neural Networks and the Chomsky Hierarchy; Delétang et al., 2023  [[Paper](https://arxiv.org/abs/2207.02098)]
+2. Inside-Outside and Forward-Backward Algorithms Are Just Backprop (Tutorial Paper); Eisner, Jason, 2016 [[Paper](https://aclanthology.org/W16-5901/)]
 
 ### Syntactic Methods
 1. Universal Stanford Dependencies: A cross-linguistic typology; de Marneffe et al., 2014 [[Paper](https://aclanthology.org/L14-1045/)] 
