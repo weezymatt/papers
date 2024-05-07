@@ -37,6 +37,7 @@ Table of Contents
 
 ### Embeddings
 1. Efficient Estimation of Word Representations in Vector Space; Mikolov et al., 2013 [[Paper](https://arxiv.org/abs/1301.3781)]
+2. GloVe: Global Vectors for Word Representation; Pennington, Jeffrey et al., 2014 [[Paper](https://aclanthology.org/D14-1162/)]
    
 ### N-Grams
 1. Show Some Love to Your *n*-grams: A Bit of Progress and Stronger *n*-gram Language Modeling Baselines; Shareghi et al., 2019 [[Paper](https://aclanthology.org/N19-1417/)]
