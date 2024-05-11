@@ -10,14 +10,14 @@ Table of Contents
   * [Information Retrieval](https://github.com/weezymatt/papers/tree/readings/Information%20Retrieval)
   * [Machine Learning](https://github.com/weezymatt/papers/tree/readings/Machine%20Learning))
   * [Natural Language Processing](https://github.com/weezymatt/papers/tree/readings/Natural%20Language%20Processing)
-    * [NLP Basics](#placeholder)
-    * [Bayesian Modeling & Inference](#placeholder)
-    * [Models & Architectures](#architectures)
-    * [Distributional Hypothesis](#embeddings)
-    * [Knowledge Representation](#symbolic-knowledge)
-    * [Algorithms](#algorithms)
-    * [Syntactic Methods](#syntactic-methods)
-
+    * NLP Basics
+    * Bayesian Modeling & Inference
+    * Models & Architectures
+    * Distributional Hypothesis
+    * Knowledge Representation
+    * Algorithms
+    * Syntactic Methods
+      
 ## Reading Groups
 * [2023](#placeholder)
 * [2024](#placeholder)
