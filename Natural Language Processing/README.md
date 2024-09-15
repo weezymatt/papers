@@ -33,4 +33,5 @@ Various topics on NLP.
 1. Constructing a Knowledge Graph from Textual Descriptions of Software Vulnerabilities in the National Vulnerability Database, 2023 [[Paper](https://arxiv.org/abs/2305.00382)]
 2. Understanding Mention Detector-Linker Interaction in Neural Coreference Resolution; Wu and Gardner, 2021 [[Paper](https://aclanthology.org/2021.crac-1.16/)] [[Notes](https://github.com/weezymatt/papers/blob/main/2023/2021.crac-1.16.md)]
 3. PreCo: A Large-scale Dataset in Preschool Vocabulary for Coreference Resolution; Chen et al, 2018 [[Paper](https://aclanthology.org/D18-1016/)] [[Notes](https://github.com/weezymatt/papers/blob/main/2023/D18-1016.md)]
+4. Reporting bias and knowledge acquisition; Gordon and Van Durme; 2013 [[Paper](https://dl.acm.org/doi/10.1145/2509558.2509563)]
    
