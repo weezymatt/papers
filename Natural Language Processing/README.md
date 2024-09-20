@@ -35,3 +35,5 @@ Various topics on NLP.
 3. PreCo: A Large-scale Dataset in Preschool Vocabulary for Coreference Resolution; Chen et al, 2018 [[Paper](https://aclanthology.org/D18-1016/)] [[Notes](https://github.com/weezymatt/papers/blob/main/2023/D18-1016.md)]
 4. Reporting bias and knowledge acquisition; Gordon and Van Durme; 2013 [[Paper](https://dl.acm.org/doi/10.1145/2509558.2509563)] [[Notes](https://github.com/weezymatt/papers/blob/main/Natural%20Language%20Processing/2509563.md)]
    
+## Part-of-Speech Tagging
+1. Transformation-Based Error-Driven Learning and Natural Language Processing: A Case Study in Part-of-Speech Tagging, 1995 [[Short Paper](https://aclanthology.org/H92-1022.pdf)] [[Full Paper](https://aclanthology.org/J95-4004.pdf)] [[Notes](pending)]
