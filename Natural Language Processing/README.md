@@ -1,8 +1,9 @@
-# Natural Language Processing
-Various topics on NLP.
+# Natural Language Processing/Computational Linguistics
+Various topics on NLP/CL.
 
 ## NLP Basics
-1. Universal Stanford Dependencies: A cross-linguistic typology; de Marneffe et al., 2014 [[Paper](https://aclanthology.org/L14-1045/)] 
+1. Universal Stanford Dependencies: A cross-linguistic typology; de Marneffe et al., 2014 [[Paper](https://aclanthology.org/L14-1045/)]
+2. How the Statistical Revolution Changes (Computational) Linguistics; Johnson, M., 2000 [[Paper](https://aclanthology.org/W09-0103/)] 
 
 ## Bayesian Modeling & Inference
 1. Inference in an Authorship Problem; Mosteller, W., Wallace, D. 1963 [[Paper](https://www.jstor.org/stable/2283270)] [[Notes](https://github.com/weezymatt/papers/blob/main/2024/2283270.md)]
