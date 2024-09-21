@@ -37,4 +37,7 @@ Various topics on NLP/CL.
 4. Reporting bias and knowledge acquisition; Gordon and Van Durme; 2013 [[Paper](https://dl.acm.org/doi/10.1145/2509558.2509563)] [[Notes](https://github.com/weezymatt/papers/blob/main/Natural%20Language%20Processing/2509563.md)]
    
 ## Part-of-Speech Tagging
-1. Transformation-Based Error-Driven Learning and Natural Language Processing: A Case Study in Part-of-Speech Tagging, 1995 [[Short Paper](https://aclanthology.org/H92-1022.pdf)] [[Full Paper](https://aclanthology.org/J95-4004.pdf)] [[Notes](pending)]
+1. Transformation-Based Error-Driven Learning and Natural Language Processing: A Case Study in Part-of-Speech Tagging, 1995 [[Short Paper](https://aclanthology.org/H92-1022.pdf)] [[Full Paper](https://aclanthology.org/J95-4004.pdf)] [[Notes](https://github.com/weezymatt/papers/blob/main/Natural%20Language%20Processing/J95-4004.md)]
+
+## Linguistic Phenomenona
+1. Why Swear? Analyzing and Inferring the Intentions of Vulgar Expressions; Holgate et al, 2018 [[Paper](https://aclanthology.org/D18-1471/)] [[Notes](pending)]
